@@ -31,6 +31,8 @@ html {
 .jumbotron > .title{
 	margin-left: 200px;
 	padding-top: 0px;
+	font-family: helvetica;
+	color: #000066;
 }
 
 
@@ -42,4 +44,8 @@ html {
 	display: none;
 }
 
-// blabla
+.navbar{
+	background-color: #5ba630;
+	font-family: helvetica;
+	font-weight: bold;
+}
