@@ -54,3 +54,8 @@ function unSelectSectionMenu() {
 	  }
 	});
 }
+
+
+function scrollDown() {
+   $("html, body").animate({ scrollTop: $(document).height() }, 1000);
+};
